@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/foraneoAppAPI.props" />
+</Project>

@@ -1,0 +1,12 @@
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/bin/Debug/net8.0/foraneoApp.Utilities.deps.json
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/bin/Debug/net8.0/foraneoApp.Utilities.dll
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/bin/Debug/net8.0/foraneoApp.Utilities.pdb
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/foraneoApp.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/foraneoApp.Utilities.AssemblyInfoInputs.cache
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/foraneoApp.Utilities.AssemblyInfo.cs
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/foraneoApp.Utilities.csproj.CoreCompileInputs.cache
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/foraneoApp.Utilities.sourcelink.json
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/foraneoApp.Utilities.dll
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/refint/foraneoApp.Utilities.dll
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/foraneoApp.Utilities.pdb
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Utilities/obj/Debug/net8.0/ref/foraneoApp.Utilities.dll

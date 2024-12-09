@@ -1,0 +1,13 @@
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/bin/Debug/net8.0/foraneoApp.Models.deps.json
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/bin/Debug/net8.0/foraneoApp.Models.dll
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/bin/Debug/net8.0/foraneoApp.Models.pdb
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.AssemblyInfoInputs.cache
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.AssemblyInfo.cs
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.csproj.CoreCompileInputs.cache
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.sourcelink.json
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.dll
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/refint/foraneoApp.Models.dll
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.pdb
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/ref/foraneoApp.Models.dll
+/Users/william/Documents/PROGRAMMING/C#/Practice/foraneoApp/foraneoApp.Models/obj/Debug/net8.0/foraneoApp.Models.csproj.AssemblyReference.cache
